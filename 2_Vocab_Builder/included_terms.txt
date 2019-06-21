@@ -1,0 +1,1439 @@
+percent, confid, interv
+percent
+percent, confid
+analys
+logist, regress, analys
+p
+two, tail, p
+cox, proport, hazard
+proport
+cox, proport
+model
+univari, model
+mean
+statist, analysi, mean
+two, interim
+two
+two, interim, analys
+associ
+univari, associ
+correspond, p, valu
+valu
+p, valu
+primari, efficaci, analysis
+primari
+primari, analysis
+spss, statist, version
+version
+spss, version
+continu
+statist, analysi, continu
+analysi
+univari, analysi
+multivari, logist, regress
+multivari
+multivari, logist
+statist, signific, associ
+signific
+signific, associ
+miss, outcom, data
+miss
+miss, data
+baselin
+associ, baselin
+multipl, regress
+multipl
+multipl, logist, regress
+fisher, exact, test
+fisher
+fisher, exact
+random
+random, intercept
+sever, sensit, analyses
+sensit
+sensit, analyses
+interact
+interact, term
+one, way, repeat
+one
+one, way
+stata
+stata, v
+chi, squar, test
+chi
+chi, squar
+categor
+statist, analysi, categor
+addit, sensit, analys
+addit
+addit, analys
+sampl
+statist, analysi, sampl
+normal, distribut, continu
+normal
+normal, distribut
+non, linear, relationship
+non
+non, linear
+variabl
+statist, analysi, variabl
+linear
+univari, linear
+risk
+risk, associ
+median
+median, age
+covari
+demograph, covari
+estim, odd, ratio
+odd
+odd, ratio
+log, log
+log
+log, linear
+independ
+independ, associ
+general, linear, regress
+general
+general, linear
+imput, data, set
+set
+data, set
+subgroup, analys, stratifi
+analys, stratifi
+stratifi
+stratifi, analys
+calcul, hazard, ratio
+hazard
+hazard, ratio
+high, sensit, c
+high
+high, sensit
+statist, signific
+statist, signific, differ
+repeat
+repeat, analys
+logist
+univari, logist
+receiv, oper, characterist
+receiv
+receiv, oper
+wilcoxon, rank, sum
+wilcoxon
+wilcoxon, rank
+cox
+univari, cox
+secondari
+secondari, analysis
+separ, logist, regress
+separ
+separ, logist
+fix, effect, meta
+fix
+fix, effect
+sd
+mean, sd
+second
+second, analysis
+indic
+indic, signific
+method
+kaplan, meier, method
+logist, regress
+univari, logist, regress
+assumpt, proport, hazard
+proport, hazard, assumpt
+proport, assumpt
+assumpt
+assumpt, proport
+analyses
+univari, analyses
+type, error, rate
+type
+type, error
+mann, whitney, test
+mann
+mann, whitney
+spss
+spss, v
+sas, institute
+statist, significant
+best, fit, model
+fit
+model, fit
+secondari, end, point
+end
+secondari, end
+continu, variabl
+compar, continu, variabl
+post
+post, hoc, analysis
+select
+backward, select
+intent
+intent, totreat
+kh
+pearson, kh
+robust, standard, error
+robust
+robust, standard
+two, side
+two, side, p
+sampl, size
+requir, sampl, size
+calcul, incid, rate
+incid
+incid, rate
+regress
+univari, linear, regress
+percent, cis
+sever, sensit, analys
+sever
+sever, sensit
+unpair, student, test
+student
+student, test
+time, depend, variabl
+depend
+depend, variabl
+correl
+correl, analys
+pearson, correl, coeffici
+pearson
+pearson, correl
+confound
+confound, variables
+one, side, alpha
+side
+one, side
+random, effect
+random, effect, model
+mix, model, repeat
+mix
+mix, model
+percent, power
+percent, statist, power
+log, rank
+log, rank, test
+sensit, analys
+sensit, analys, exclud
+subgroup
+subgroup, analysis
+kruskal, walli, test
+kruskal
+kruskal, walli
+descript
+descript, analys
+g
+hedg, g
+estim, incid, rate
+rate
+estim, rate
+graphpad, prism, version
+graphpad
+graphpad, prism
+model, predict
+predict
+predict, model
+kaplan, meier
+kaplan, meier, curv
+plan
+statist, analysi, plan
+imput
+imput, model
+primari, exposur, variabl
+exposur
+exposur, variabl
+higher, valu, indic
+higher
+higher, valu
+distribut
+normal, distribut, data
+cohort
+entir, cohort
+linear, regress
+linear, regress, model
+carri
+last, observ, carri
+cumul, incid
+cumul
+cumul, incid, curv
+pair, sampl, test
+pair
+pair, test
+binari, logist, regress
+binari
+binari, logist
+kaplan
+kaplan, meier, analysis
+negat, binomi, regress
+negat
+negat, binomi
+poisson, regress, model
+poisson
+poisson, regress
+anova
+one, way, anova
+factor
+factor, associ
+cluster
+cluster, within
+categor, variabl
+compar, categor, variabl
+sas, institut
+correct
+bonferroni, correct
+relationship
+linear, relationship
+post, hoc
+post, hoc, analys
+power, analysi
+power
+statist, analysi, power
+linear, trend, across
+trend
+linear, trend
+condit, logist
+condit
+condit, logist, regress
+baseline
+rang
+interquartil, rang
+percent, ci
+caus
+caus, mortality
+sensit, analys, restrict
+restrict
+restrict, analys
+log, likelihood, ratio
+ratio
+likelihood, ratio
+univari
+univari, analys
+sensit, analysi
+sensit, analysi, exclud
+preval
+preval, ratio
+modifi
+modifi, intent
+overal, signific, level
+signific, level
+level, signific
+frequenc
+frequenc, distribut
+sampl, size, requir
+requir
+requir, sampl
+primari, outcom
+primari, outcom, interest
+th
+th, percentiles
+demograph
+demograph, characterist
+standard, deviat
+absolut, risk
+absolut
+absolut, risk, reduct
+maximum, likelihood, estim
+likelihood
+maximum, likelihood
+surviv
+surviv, analysis
+larg, effect, size
+larg
+larg, effect
+models
+logist, regress, models
+categor, variables
+cis
+interquartil
+interquartil, ranges
+covariates
+time, vari, covariates
+tx
+significant
+pool
+pool, analys
+posit
+posit, predict
+general, estim
+general, estim, equat
+propens, score, match
+propens
+propens, score
+multipl, imput
+multipl, imput, chain
+prespecifi, sensit
+prespecifi
+prespecifi, sensit, analys
+softwar
+stata, softwar, version
+bonferroni, multipl, comparison
+bonferroni
+bonferroni, multipl
+proport, hazard
+proport, hazard, assumption
+shapiro, wilk, test
+shapiro
+shapiro, wilk
+term
+linear, term
+hrs
+calcul, hrs
+relev
+clinic, relev
+fals, discoveri, rate
+fals
+fals, discoveri
+stata, version
+ci
+compet, risk, regress
+compet
+compet, risk
+unit
+unit, analysis
+restrict, maximum, likelihood
+maximum
+restrict, maximum
+funnel, plot, asymmetri
+plot
+funnel, plot
+outcome
+secondari, outcome
+predictor
+linear, predictor
+v
+r, v
+dose, respons, relationship
+dose
+dose, respons
+moder
+moder, effect
+spearman, rank, correl
+spearman
+spearman, correl
+baselin, characterist
+baselin, characterist, particip
+meta
+meta, analysis
+varianc
+analys, varianc
+linear, mix
+linear, mix, model
+approach
+multipl, imput, approach
+cross, product, term
+cross
+cross, product
+limit
+percent, confid, limit
+null, hypothesi, differ
+null
+null, hypothesi
+continu, variables
+normal, approxim
+approxim
+approxim, normal
+invers, varianc, weight
+invers
+invers, varianc
+regress, model
+multivari, regress, model
+primari, end
+primari, end, point
+logist, regress, model
+confid
+percent, confid, interval
+except
+covari, except
+two, tail
+two, tail, student
+dichotom
+dichotom, outcomes
+statist, signific, threshold
+threshold
+signific, threshold
+target, sampl, size
+target
+target, sampl
+efficaci
+efficaci, analys
+wald
+wald, test
+effect, size
+medium, effect, size
+exploratori
+exploratori, analys
+descript, statist
+statist, descript
+multivari, model
+final, multivari, model
+data, analysis
+alpha
+alpha, level
+pairwis
+pairwis, comparison
+standard, error
+non, parametr, test
+parametr
+non, parametr
+multipl, comparison
+dunnett, multipl, comparison
+tests
+likelihood, ratio, tests
+signific, differ
+least, signific, differ
+hypothesi
+hypothesi, test
+multipl, comparisons
+natur
+natur, logarithm
+equal
+equal, varianc
+two, way
+two, way, anova
+nonparametr
+nonparametr, test
+two, way, interact
+way
+way, interact
+quantifi
+code
+dummi, code
+specifi
+sem
+mean, sem
+tail
+two, tail, test
+range
+interquartil, range
+cochran
+cochran, q, test
+visual
+visual, analog, scale
+curv
+surviv, curv
+lowest
+lowest, tertil
+count
+count, data
+estim, hazard
+estim, hazard, ratio
+iqr
+good
+good, fit
+variables
+ordin, variables
+cox, model
+cox, regress, model
+log, transform
+log, transform, prior
+multinomi, logist, regress
+multinomi
+multinomi, logist
+outcomes
+health, outcomes
+partial, eta, squar
+partial
+partial, eta
+mann, whitney, u
+ordin, logist
+ordin
+ordin, logist, regress
+comorbid
+charlson, comorbid
+cox, regress
+multivari, cox, regress
+risk, factor
+cvd, risk, factor
+non, normal
+non, normal, distribut
+side, p
+side, p, valu
+restrict, cubic
+restrict, cubic, spline
+unpair
+unpair, test
+multipli
+multipli, imput
+software
+graphpad, software
+multivari, linear
+multivari, linear, regress
+sas, statist
+sas, statist, softwar
+whole
+whole, cohort
+p, valu, less
+q
+cochran, q
+bivari
+bivari, associ
+relat, risk
+adjust, relat, risk
+mix, effect
+mix, effect, logist
+tailed
+two, tailed
+wilcoxon, sign
+wilcoxon, sign, rank
+local, weight, scatterplot
+local
+local, weight
+size
+sampl, size, calcul
+f
+f, statist
+bootstrap
+bootstrap, procedur
+tukey
+tukey, kramer
+stratif
+stratif, variabl
+logit, link, function
+logit
+logit, link
+percent, confid, intervals
+formal
+formal, test
+percent, level
+percent, signific, level
+confounders
+possibl, confounders
+coeffici
+estim, coeffici
+mediat
+mediat, analys
+summari
+statist, analysi, summari
+sas, software
+sas, statist, software
+paramet
+paramet, estim
+z
+z, scores
+simpl, linear, regress
+simpl
+simpl, linear
+seri, sensit
+seri
+seri, sensit, analys
+transform
+logarithm, transform
+upper
+upper, boundari
+adjust, odd
+adjust, odd, ratio
+confid, interv
+skew
+high, skew
+akaik
+akaik, inform, criterion
+better
+better, fit
+cohen, effect, size
+cohen
+cohen, effect
+k
+likelihood, ratio, test
+independ, variabl
+independ, variabl, interest
+adjust, model
+fulli, adjust, model
+sensit, analysis
+main, effect
+signific, main, effect
+covariate
+sds
+miss, valu
+replac, miss, valu
+meta, analysi
+statist, analysi, meta
+bayesian, inform, criteria
+bayesian
+bayesian, inform
+error
+error, term
+indic, statist
+indic, statist, signific
+exact
+fischer, exact
+schoenfeld
+schoenfeld, residuals
+significance
+indic, statist, significance
+causal
+causal, pathway
+randomis
+randomis, group
+outcom, measures
+progress, free, surviv
+free
+progress, free
+kolmogorov, smirnov, test
+kolmogorov
+kolmogorov, smirnov
+markov, chain, mont
+markov
+markov, chain
+ancova
+ancova, model
+primari, outcome
+general, linear, model
+outcom, variabl
+primari, outcom, variabl
+standard, deviation
+continu, variable
+mean, differ
+standard, mean, differ
+invers, probabl
+invers, probabl, weight
+list
+covari, list
+stepwis, backward
+stepwis
+backward, stepwis
+backward
+backward, elimin
+binomi
+binomi, distribut
+squar
+pearson, chi, squar
+mannwhitney, u
+u
+mannwhitney, u, test
+multipl, linear
+multipl, linear, regress
+slope
+random, slope
+ident, link, function
+ident
+ident, link
+sampl, test
+independ, sampl, test
+questionnair
+baselin, questionnair
+logist, regression
+multivari, logist, regression
+experiment
+experiment, group
+expos
+expos, group
+mortality
+day, mortality
+multivari, cox
+multivari, cox, model
+handl, miss
+handl
+handl, miss, data
+analys, secondari, outcom
+secondari, analys
+analys, secondari
+time, depend
+time, depend, covariates
+hypothes
+priori, hypothes
+quantit
+quantit, variabl
+outcom, measur
+primari, outcom, measur
+stata, corp
+categor, data
+nonlinear
+nonlinear, associ
+aggreg
+aggreg, data
+generalis
+generalis, linear
+two, sampl
+two, sampl, test
+least, squar
+least, squar, mean
+ibm, spss, statist
+multilevel, logist
+multilevel
+multilevel, logist, regress
+baselin, valu
+link
+logarithm, link
+egger
+egger, test
+post, hoc, bonferroni
+bonferroni, post
+bonferroni, post, hoc
+auc
+imput, miss
+imput, miss, data
+mcnemar
+mcnemar, test
+quadrat
+quadrat, term
+controls
+match, controls
+prism
+graphpad, prism, software
+systemat
+systemat, review
+sample
+studi, sample
+cut
+cut, point
+analysi, covari
+analysi, covari, model
+linear, mix, effect
+mix, effect, linear
+roc
+roc, curv
+percent, dropout, rate
+dropout
+dropout, rate
+normal, distributed
+co
+interv
+interv, censor
+train
+train, set
+ordinari, least, squar
+ordinari
+ordinari, least
+caus, mortal
+caus, specif, mortal
+se
+blind
+doubl, blind
+intraclass, correl, coeffici
+intraclass
+intraclass, correl
+percent, signific
+percent, level, signific
+cutoff
+cutoff, point
+rank
+log, rank, tests
+standardis, mean, differ
+standardis
+standardis, mean
+w
+w, e
+rrs
+intervent, group
+multivari, adjust
+multivari, adjust, cox
+nomin, p, valu
+nomin
+nomin, p
+school
+secondari, school
+tukey, post
+tukey, post, hoc
+quartil
+studi, popul
+log, link
+log, link, function
+continu, data
+r, core
+r, core, team
+adequ
+adequ, power
+statistics
+descript, statistics
+exchang, correl, structure
+exchang
+exchang, correl
+ye
+th, percentil
+variable
+predictor, variable
+nonnorm, distribut
+nonnorm
+nonnorm, distribut, data
+balanc
+covari, balanc
+arm
+studi, arm
+explanatori
+explanatori, variables
+nearest, neighbor, match
+nearest
+nearest, neighbor
+geometr
+geometr, mean
+charlson
+charlson, comorbid, index
+mean, valu
+high, risk
+randomization
+underw, randomization
+statist, significance
+denot, statist, significance
+akaik, inform
+akaik, inform, criteria
+one, way, analysi
+primari, endpoint
+statist, statist
+statist, analysi, analys
+statistic
+c, statistic
+gee
+gee, model
+noninferior
+noninferior, margin
+mantel
+mantel, cox
+total, sampl
+total, sampl, size
+independ, data
+independ, data, monitor
+linear, model
+generalis, linear, model
+isrctn
+number, isrctn
+natur, log
+natur, log, transform
+revers, kaplan, meier
+revers
+revers, kaplan
+spss, inc
+flow
+flow, chart
+unstructur, covari, matrix
+unstructur
+unstructur, covari
+dummi
+dummi, variabl
+end, point
+efficaci, end, point
+unmeasur
+unmeasur, confound
+fix, effects
+ten
+ten, imput
+funnel
+funnel, plots
+compon
+varianc, compon
+quintil
+means
+chain
+chain, equat
+model, adjust
+multivari, adjust, model
+chisquar
+chisquar, test
+predefin
+predefin, subgroup
+structur
+structur, equat, model
+regression
+linear, regression
+rubin
+rubin, rule
+imput, data
+multipli, imput, data
+nest
+nest, model
+risk, ratio
+relat, risk, ratio
+strata
+criterion
+bayesian, inform, criterion
+beta
+beta, coeffici
+outcom, interest
+multivari, analysi
+regress, models
+linear, regress, models
+endpoint
+primari, efficaci, endpoint
+secondari, outcomes
+parsimoni
+parsimoni, model
+relat, excess
+excess
+relat, excess, risk
+public, bias
+adher
+logarithm
+spss, statist
+spss, statist, softwar
+complex, sampl
+complex, sampl, design
+permut
+permut, test
+hochberg
+benjamini, hochberg
+percent, uncertainti, interv
+uncertainti
+percent, uncertainti
+robust, varianc
+robust, error, varianc
+forest
+forest, plot
+risk, estim
+estim, risk
+estim, relat, risk
+post, hoc, analysi
+taylor, seri
+taylor
+taylor, seri, linear
+small, sampl
+small, sampl, size
+graphpad, softwar
+graphpad, softwar, inc
+wk
+proxi
+uncondit, logist, regress
+uncondit
+uncondit, logist
+addit, sensit
+addit, sensit, analysi
+distribution
+poisson, distribution
+owe
+multivari, analys
+r, statist
+r, statist, software
+states
+unit, states
+townsend, depriv, index
+townsend
+townsend, depriv
+kaplanmei
+kaplanmei, method
+studi, cohort
+cohort, studi
+median, valu
+depriv
+index, multipl, depriv
+values
+baselin, values
+mix, effect, model
+convent
+multivari, regress
+multivari, poisson, regress
+fold
+fold, chang
+survival
+progress, free, survival
+flexibl
+flexibl, model
+normal, distribution
+non, normal, distribution
+independ, variables
+continu, outcom
+fill
+fill, method
+mont
+mont, carlo
+subtract
+calcul, subtract
+pilot
+pilot, studi
+interact, effect
+simul
+mont, carlo, simul
+p, values
+repeat, measur, anova
+benjamini
+benjamini, hochberg, method
+compar, baselin
+compar, baselin, characterist
+indic, variabl
+rule
+trapezoid, rule
+guid
+sas, enterpris, guid
+denot
+denot, statist
+greenhous, geisser, correct
+greenhous
+greenhous, geisser
+sas, v
+binari, variabl
+spearman, rank
+forward
+forward, select
+dunn, multipl, comparison
+dunn
+dunn, multipl
+nordic, cochran, centre
+nordic
+nordic, cochran
+back
+back, transform
+mantel, haenszel
+mantel, haenszel, test
+calcul, odd
+calcul, odd, ratio
+binari, outcom
+specificity
+fix, effect, model
+samples
+bootstrap, samples
+excel
+pearson, chi
+level, statist
+level, statist, signific
+log, binomi
+log, binomi, regress
+tabul
+cross, tabul
+cambridg, core
+core
+cambridg, core, term
+standard, deviations
+outlier
+power, calcul
+sedentari
+sedentari, time
+dunnett
+dunnett, multipl
+rao, scott, kh
+rao
+rao, scott
+multivari, models
+predict, valu
+posit, predict, valu
+valu, p
+tail, p, valu
+hosmer, lemeshow
+hosmer, lemeshow, test
+correl, coeffici
+spearman, correl, coeffici
+secondari, analyses
+confound, factor
+omit
+incid, rate, ratio
+chi, squar, tests
+efigur
+r, packag
+box
+box, cox
+addit, model
+general, addit, model
+cochran, armitag
+cochran, armitag, test
+compound
+compound, symmetri
+statist, power
+increas, statist, power
+best, fit
+statist, analysi, baselin
+risk, differ
+absolut, risk, differ
+propos
+method, propos
+random, effects
+retrospect
+confound, variabl
+varianc, estim
+robust, varianc, estim
+unexpos
+unexpos, group
+adjust, hazard
+adjust, hazard, ratio
+way, analysi
+two, way, analysi
+pearson, product
+pearson, product, moment
+leisur, time, physic
+leisur
+leisur, time
+r, foundation
+regress, coeffici
+adjust, p
+adjust, p, valu
+autoregress
+autoregress, covari
+error, bar, repres
+bar
+error, bar
+sensitivity
+signific, interact
+multivari, cox, proport
+overal, type
+overal, type, error
+kaplan, meier, estim
+random, effect, meta
+equat
+structur, equat
+crossov
+crossov, design
+generalis, estim
+generalis, estim, equat
+sunnybrook, health, scienc
+sunnybrook
+sunnybrook, health
+squar, root
+root, mean, squar
+primari, outcom, measure
+measure
+outcom, measure
+student, unpair
+unpair, student
+student, unpair, test
+degre, freedom
+mannwhitney
+mannwhitney, test
+deviat
+pool, standard, deviat
+comorbidities
+iqrs
+multipl, logist
+holm
+holm, sidak
+regulatori
+regulatori, activ
+independ, variable
+stratifi, cox
+stratifi, cox, regress
+multipl, interact
+multipl, interact, term
+level, significance
+percent, level, significance
+z, score
+logist, regress, analysi
+primari, analyses
+mortal, rate
+mode
+calcul, hazard
+logist, model
+multivari, logist, model
+post, hoc, test
+eq
+mean, age
+cox, models
+cox, regress, models
+scores
+propens, scores
+larg, sampl
+larg, sampl, size
+quartiles
+ibm, corporation
+imputed
+sf
+general, linear, mix
+adjust, mean
+adjust, mean, differ
+hypothesis
+null, hypothesis
+signific, p
+signific, level, p
+fdr
+algorithm
+regress, analys
+summari, statist
+key, secondari
+key, secondari, end
+voxel
+voxel, wise
+cochran, mantel
+cochran, mantel, haenszel
+nonparametr, mann
+nonparametr, mann, whitney
+continu, outcomes
+poisson, distribut
+techniqu
+multipl, imput, techniqu
+matching
+propens, score, matching
+signific, test
+test, statist, signific
+miss, covari
+miss, covari, data
+cd
+calip
+calip, width
+binari, outcomes
+baselin, score
+kaplan, meier, surviv
+post, hoc, sensit
+logrank
+logrank, test
+signifi
+signifi, cant
+multicollinear
+way, anova
+characteristics
+demograph, characteristics
+confounding
+residu, confounding
+leven
+leven, test
+modifi, poisson
+modifi, poisson, regress
+meta, regress
+imput, valu
+imput, miss, valu
+dersimonian
+dersimonian, laird
+tukey, multipl
+tukey, multipl, comparison
+collabor
+cochran, collabor
+p, value
+multivari, analyses
+baselin, covari
+aic
+icc
+two, side, signific
+pair, sampl
+overal, survival
+baselin, measur
+tail, p
+control, groups
+clinic, signific
+quintiles
+collinear
+stratif, factor
+multivari, analysis
+r, develop
+r, develop, core
+plan, sampl
+plan, sampl, size
+secondari, endpoint
+spss, softwar
+piecewis
+piecewis, linear
+welch
+welch, test
+signific, main
+predictors
+risk, factors
+root
+root, mean
+statist, interact
+statist, signific, interact
+least, signific
+fisher, least, signific
+risk, mortal
+mortal, risk
+wilcoxon, mann
+wilcoxon, mann, whitney
+multipl, imputation
+gaussian
+bonferroni, adjust
+bonferroni, correction
+wilcoxon, test
+outcom, variables
+lan
+lan, demet
+correl, among
+skew, distribut
+demograph, variabl
+popul, base
+fish
+normality
+vas
+vas, score
+friedman
+friedman, test
+skewed
+right, skewed
+data, miss
+percent, miss, data
+delta
+delta, method
+famili, wise
+famili, wise, error
+histogram
+negat, predict
+possibl, confound
+event, rate
+two, side, alpha
+stata, corporation
+confound, factors
+fit, model
+improv, model, fit
+harrel
+harrel, c
+gleason
+gleason, score
+scatter
+scatter, plot
+resampl
+bootstrap, resampl
+pair, student
+pair, student, test
+outcom, data
+randomisation
+pool, estim
+robust, sandwich
+signific, effect
+oneway
+oneway, anova
+per, cent
+per, cent, confid
+polynomi
+fraction, polynomi
+linkag
+linkag, disequilibrium
+egger, regress
+egger, regress, test
+calcul, p
+calcul, p, valu
+complier, averag, causal
+complier
+complier, averag
+cochran, collaboration
+log, transformed
+fisher, exact, tests
+outcom, variable
+medians
+revman
+linear, associ
+non, linear, associ
+end, points
+secondari, end, points
+joinpoint
+joinpoint, regress
+nonparametr, kruskal
+nonparametr, kruskal, walli
+comorbidity
+independ, predictor
+pool, effect
+pool, effect, size
+flexibl, parametr
+flexibl, parametr, surviv
+tukey, honest
+tukey, honest, signific
+poisson, model
+carri, forward
+dichotom, outcom
+effect, modifi
+match, pair
+wilcoxon, match, pair
+nelson
+nelson, aalen
+three, way
+three, way, interact
+multivari, imput
+multivari, imput, chain
+miss, outcom
+sas, proc
+concord
+r, software
+event, outcom
+outcom, event
+stratifi, log
+stratifi, log, rank
+z, test
+confound, effect
+bivari, analys
+repeat, measures
+lower, limit
+uniform
+systat
+systat, software
+multipl, time
+multipl, time, point
+effect, time
+time, effect
+hodg
+hodg, lehmann
+robust, estim
+robust, sandwich, estim
+random, control
+random, control, trial
+type, ii
+type, ii, error
